@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+}
+#main{
+    margin: 10px auto;
+    max-width: 600px;
+    background-color: #C7E7F3;
+}
+table{
+    margin: auto;
+    width: 600px;
+    border: none;
+}
+#titulo{
+    margin: auto;
+    text-align: center;
+    background-color:#0D5188;
+
+    color: white;
+    font-weight: bold;
+    width: 596px;
+}
+.head{
+    background-color: #66C5E3;
+}
+.pos{
+    width: 10%;
+}
+.pop{
+    width: 15%;
+}
+.cid{
+    font-weight: bold;
+    color: #0D5188;
+}
+.bg{
+    background-color: #C7E7F3;
+}
+.bg1{
+    background-color: silver;
+}
