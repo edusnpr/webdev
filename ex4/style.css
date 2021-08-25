@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+table {
+  border: solid 5px #dddddd;
+  width: 50vw;
+}
+.head {
+  border-bottom: 2px solid black;
+}
+th {
+  font-size: 13px;
+  color: #999999;
+  text-align: center;
+}
+.pos {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+.top3 .pos {
+  color: #003366;
+}
+.top4 .pos {
+  color: #1398be;
+}
+.med8 .pos {
+  color: #de9800;
+}
+.med4 .pos {
+  color: #cccccc;
+}
+.bot4 .pos {
+  color: #c91b04;
+}
+.time {
+  font-weight: bold;
+  color: #666666;
+  font-size: 14;
+  text-align: left;
+}
+.celP {
+  padding: 5px;
+}
+.cel-gray {
+  background-color: #f7f7f7;
+  text-align: center;
+  padding: 5px;
+}
+.cel-white {
+  text-align: center;
+  padding: 5px;
+}
+.b {
+  font-weight: bold;
+}
